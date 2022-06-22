@@ -16,8 +16,8 @@ h3{
 }
 #nav{
     /* width: 80%; */
-    padding: 0px 0px 20px 0px;
-    margin: 30px 30px 30px 30px;
+    padding: 0px 0px 30px 0px;
+    margin: 40px 20px 40px 20px;
     border:2px solid white;
     flex-wrap: wrap;
 }
@@ -60,12 +60,13 @@ h3{
     margin: auto;
     margin-top: 10px;
     border-radius: 2px;
-    padding: 3px;
+    padding: 5px 0px 3px 10px;
+    padding-left: 10px;
     font-size: 1.3rem;
-    width:80%;
+    width:85%;
 }
 .item:hover{
-    border: 2px solid yellow;
+    border: 2px solid #b38f00;
 }
 .item i{
     cursor: pointer;
