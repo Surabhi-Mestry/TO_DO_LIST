@@ -2,11 +2,8 @@ body{
     background-color: #121212;
 }
 .container{
-    /* color:white; */
     color:  #e6b800;
     text-align: center;
-    /* #cca300
-    #b38f00 */
 }
 h1{
     color: white;
@@ -15,7 +12,6 @@ h3{
     color: white;
 }
 #nav{
-    /* width: 80%; */
     padding: 0px 0px 30px 0px;
     margin: 40px 20px 40px 20px;
     border:2px solid white;
@@ -41,14 +37,11 @@ h3{
     color:#ffd633
 }
 .tasks{
-    /* display: flex;
-    justify-content: space-between; */
     padding: 0px;
     margin: auto;
     align-items: center;
     width: 95%;
     color:black;
-    /* margin-top: 10px; */
     transition: 0.5s;
     flex-direction: column;
 }

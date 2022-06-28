@@ -16,7 +16,7 @@ function addtask(){
     else{    
         var divParent = document.createElement("div");
         var divChild = document.createElement("div");
-        var check = document.createElement("i");
+        var check = document.createElement("i"); 
         var trash= document.createElement("i");
         
         divParent.className = "item";
